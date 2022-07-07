@@ -1,6 +1,6 @@
 # MovieApp developed with React
 
-[Check project](https://mateuscodes.github.io/defi-crypto-react-tailwind/)
+[Check project](https://mateuscodes-movieapp.netlify.app/)
 
 ---
 
